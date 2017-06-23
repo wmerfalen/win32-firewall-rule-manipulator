@@ -1,0 +1,362 @@
+Name	Group	Profile	Enabled	Action	Override	Program	Local Address	Remote Address	Protocol	Local Port	Remote Port	Authorized Users	Authorized Computers	Authorized Local Principals	Local User Owner	Application Package	
+20XX		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\20XX\20XX.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+20XX		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\20XX\20XX.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Axiom Verge		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Axiom Verge\AxiomVerge.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Axiom Verge		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Axiom Verge\AxiomVerge.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Breach & Clear: Deadline		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Breach & Clear Deadline\DEADline.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Breach & Clear: Deadline		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Breach & Clear Deadline\DEADline.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Castle Crashers		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\CastleCrashers\castle.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Castle Crashers		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\CastleCrashers\castle.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Core 4 Client		Public	No	Allow	No	C:\program files (x86)\core 4\client\coreclient.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Core 4 Client		Public	No	Allow	No	C:\program files (x86)\core 4\client\coreclient.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+DARK SOULS™ III		Public	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\DARK SOULS III\Game\DarkSoulsIII.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+DARK SOULS™ III		Public	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\DARK SOULS III\Game\DarkSoulsIII.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Darkest Dungeon		Public	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\DarkestDungeon\_windows\Darkest.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Darkest Dungeon		Public	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\DarkestDungeon\_windows\Darkest.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+devenv.exe		All	No	Allow	No	C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe	Any	Any	Any	Any	Any	Any	Any	Any	Any	Any	
+Diablo III Retail		Public	No	Allow	No	C:\program files (x86)\diablo iii\diablo iii.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Diablo III Retail		Public	No	Allow	No	C:\program files (x86)\diablo iii\diablo iii.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Dragon's Dogma: Dark Arisen		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\DDDA\DDDA.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Dragon's Dogma: Dark Arisen		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\DDDA\DDDA.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+E.Y.E: Divine Cybermancy		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\EYE\EYE.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+E.Y.E: Divine Cybermancy		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\EYE\EYE.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Fallout 4		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Fallout 4\Fallout4Launcher.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Fallout 4		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Fallout 4\Fallout4Launcher.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+FILE TRANSFER 32 TCP		Private, Public	No	Allow	No	C:\Windows\system32\ftp.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+FILE TRANSFER 32 UDP		Private, Public	No	Allow	No	C:\Windows\system32\ftp.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+FILE TRANSFER WOW64 TCP		Private, Public	No	Allow	No	C:\Windows\SysWOW64\ftp.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+FILE TRANSFER WOW64 UDP		Private, Public	No	Allow	No	C:\Windows\SysWOW64\ftp.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+future soldier dx11		Public	No	Allow	No	D:\program files (x86)\steam\steamapps\common\tom clancy's ghost recon future soldier\future soldier dx11.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+future soldier dx11		Public	No	Allow	No	D:\program files (x86)\steam\steamapps\common\tom clancy's ghost recon future soldier\future soldier dx11.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+future soldier dx9		Private, Public	No	Allow	No	D:\program files (x86)\steam\steamapps\common\tom clancy's ghost recon future soldier\future soldier dx9.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+future soldier dx9		Private, Public	No	Allow	No	D:\program files (x86)\steam\steamapps\common\tom clancy's ghost recon future soldier\future soldier dx9.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Ghost Recon Phantoms		Public	No	Block	No	D:\program files (x86)\steam\steamapps\common\tom clancy's ghost recon phantoms na\game\ncsa-live\ghostreconphantoms.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Ghost Recon Phantoms		Public	No	Block	No	D:\program files (x86)\steam\steamapps\common\tom clancy's ghost recon phantoms na\game\ncsa-live\ghostreconphantoms.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Insurgency		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency_BE.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Insurgency		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Insurgency		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency_BE.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Insurgency		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+IntelUSBoverIP:1		All	No	Allow	No	C:\Program Files\Intel Corporation\USB over IP\bin\UoipService.exe	Any	Any	Any	Any	Any	Any	Any	Any	Any	Any	
+jk2mp		Public	No	Allow	No	D:\program files (x86)\lucasarts\star wars jk ii jedi outcast\gamedata\jk2mp.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+jk2mp		Public	No	Allow	No	D:\program files (x86)\lucasarts\star wars jk ii jedi outcast\gamedata\jk2mp.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Knight Online		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Knight Online\Launcher.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Knight Online		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Knight Online\Launcher.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Natural Selection 2		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Natural Selection 2\NS2.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Natural Selection 2		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Natural Selection 2\NS2.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Nuclear Throne		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Nuclear Throne\nuclearthrone.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Nuclear Throne		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Nuclear Throne\nuclearthrone.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+NVIDIA Network Service TCP Exception (HTTP)		All	No	Allow	No	C:\Program Files (x86)\NVIDIA Corporation\NetService\NvNetworkService.exe	Any	Any	TCP	80	Any	Any	Any	Any	Any	Any	
+NVIDIA Network Service TCP Exception (HTTPS)		All	No	Allow	No	C:\Program Files (x86)\NVIDIA Corporation\NetService\NvNetworkService.exe	Any	Any	TCP	443	Any	Any	Any	Any	Any	Any	
+Overture		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Overture\Overture.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Overture		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Overture\Overture.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+PnkBstrA		Public	No	Allow	No	C:\Windows\SysWOW64\PnkBstrA.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+PnkBstrA		Public	No	Allow	No	C:\Windows\SysWOW64\PnkBstrA.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+PnkBstrB		Public	No	Allow	No	C:\Windows\SysWOW64\PnkBstrB.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+PnkBstrB		Public	No	Allow	No	C:\Windows\SysWOW64\PnkBstrB.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Rainbow Six - Siege: Game		All	Yes	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Tom Clancy's Rainbow Six Siege\RainbowSixGame.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Rainbow Six - Siege: Game		All	Yes	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Tom Clancy's Rainbow Six Siege\RainbowSixGame.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Replay Server		Public	No	Allow	No	C:\program files (x86)\core 4\client\replayserver.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Replay Server		Public	No	Allow	No	C:\program files (x86)\core 4\client\replayserver.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Roguelands		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Roguelands\Roguelands.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Roguelands		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Roguelands\Roguelands.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+SanctuaryRPG: Black Edition		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\SanctuaryRPG - Black Edition\SanctuaryRPG.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+SanctuaryRPG: Black Edition		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\SanctuaryRPG - Black Edition\SanctuaryRPG.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+SHENZHEN I/O		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\SHENZHEN IO\Shenzhen.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+SHENZHEN I/O		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\SHENZHEN IO\Shenzhen.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+SHIELD Streaming Application TCP Exception		All	No	Allow	No	C:\Program Files\NVIDIA Corporation\NvStreamSrv\nvstreamer.exe	Any	Any	TCP	47995, 47996, 47998, 35043, 48010	Any	Any	Any	Any	Any	Any	
+SHIELD Streaming Application UDP Exception		All	No	Allow	No	C:\Program Files\NVIDIA Corporation\NvStreamSrv\nvstreamer.exe	Any	Any	UDP	48000, 47999, 47998, 47995, 48010	Any	Any	Any	Any	Any	Any	
+SHIELD Streaming Service TCP Exception		All	No	Allow	No	C:\Program Files\NVIDIA Corporation\NvStreamSrv\NvStreamNetworkService.exe	Any	Any	TCP	47984, 47989	Any	Any	Any	Any	Any	Any	
+SHIELD Streaming Service UDP Exception		All	No	Allow	No	C:\Program Files\NVIDIA Corporation\NvStreamSrv\NvStreamNetworkService.exe	Any	Any	UDP	5353, 47998	Any	Any	Any	Any	Any	Any	
+SmartAgentTest		All	No	Allow	No	C:\Program Files\Intel Corporation\Intel WiDi\SmartAgentTest.exe	Any	Any	Any	Any	Any	Any	Any	Any	Any	Any	
+Squad		Public	No	Allow	No	D:\program files (x86)\steam\steamapps\common\squad\squad\binaries\win64\squad.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Squad		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Squad\squad_launcher.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Squad		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Squad\squad_launcher.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Squad		Public	No	Allow	No	D:\program files (x86)\steam\steamapps\common\squad\squad\binaries\win64\squad.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+StarBreak		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\StarBreak\mvmmoclient.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+StarBreak		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\StarBreak\mvmmoclient.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Steam		All	Yes	Allow	No	D:\Program Files (x86)\Steam\Steam.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Steam		All	Yes	Allow	No	D:\Program Files (x86)\Steam\Steam.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Steam Web Helper		All	Yes	Allow	No	D:\Program Files (x86)\Steam\bin\cef\cef.win7\steamwebhelper.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Steam Web Helper		All	Yes	Allow	No	D:\Program Files (x86)\Steam\bin\steamwebhelper.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Steam Web Helper		All	Yes	Allow	No	D:\Program Files (x86)\Steam\bin\cef\cef.win7\steamwebhelper.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Steam Web Helper		All	Yes	Allow	No	D:\Program Files (x86)\Steam\bin\steamwebhelper.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+The Witcher 3: Wild Hunt		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\bin\x64\witcher3.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+The Witcher 3: Wild Hunt		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\bin\x64\witcher3.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+TIS-100		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\TIS-100\tis100.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+TIS-100		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\TIS-100\tis100.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Tom Clancy's Ghost Recon Future Soldier		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Tom Clancy's Ghost Recon Future Soldier\Future Soldier.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Tom Clancy's Ghost Recon Future Soldier		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Tom Clancy's Ghost Recon Future Soldier\Future Soldier.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Tom Clancy's Ghost Recon Phantoms - NA		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Tom Clancy's Ghost Recon Phantoms NA\Launcher.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Tom Clancy's Ghost Recon Phantoms - NA		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Tom Clancy's Ghost Recon Phantoms NA\Launcher.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Tom Clancy's Rainbow Six Siege		All	Yes	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Tom Clancy's Rainbow Six Siege\RainbowSix.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Tom Clancy's Rainbow Six Siege		All	Yes	Encrypt (Dynamic)	No	D:\Program Files (x86)\Steam\steamapps\common\Tom Clancy's Rainbow Six Siege\RainbowSix.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Tom Clancy's Rainbow Six: Vegas 2		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Rainbow Six Vegas 2\Binaries\R6Vegas2_Game.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Tom Clancy's Rainbow Six: Vegas 2		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Rainbow Six Vegas 2\Binaries\R6Vegas2_Game.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Tribes: Ascend		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Tribes\Binaries\Win32\HirezBridge.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Tribes: Ascend		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Tribes\Binaries\Win32\HirezBridge.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+tribesascend		All	No	Allow	No	D:\program files (x86)\steam\steamapps\common\tribes\binaries\win32\tribesascend.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+tribesascend		All	No	Allow	No	D:\program files (x86)\steam\steamapps\common\tribes\binaries\win32\tribesascend.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+UFO Online: Invasion		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\UFO Online Invasion\UFO Online.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+UFO Online: Invasion		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\UFO Online Invasion\UFO Online.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Unity.exe		All	Yes	Allow	No	C:\PROGRA~1\Unity\Editor\Unity.exe	Any	Any	Any	Any	Any	Any	Any	Any	Any	Any	
+UnityVS.OpenFile.exe		All	Yes	Allow	No	C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\2015\UnityVS.OpenFile.exe	Any	Any	Any	Any	Any	Any	Any	Any	Any	Any	
+Visual Studio 2015 Remote Debugger Discovery (devenv.exe)		All	No	Allow	No	C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe	Any	Local subnet	UDP	3702	Any	Any	Any	Any	Any	Any	
+Warface		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Warface\WarfaceMycomSteamLoader.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Warface		Public	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Warface\live\nw.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Warface		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Warface\WarfaceMycomSteamLoader.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Warface		Public	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Warface\live\nw.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Warface		Public	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Warface\live\gflauncher.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Warface		Public	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Warface\live\gflauncher.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+WiDiApp		All	No	Allow	No	C:\Program Files\Intel Corporation\Intel WiDi\WiDiApp.exe	Any	Any	Any	Any	Any	Any	Any	Any	Any	Any	
+WiDiAppOld		All	No	Allow	No	C:\Program Files\Intel Corporation\Intel WiDi\WiDiAppOld.exe	Any	Any	Any	Any	Any	Any	Any	Any	Any	Any	
+WirelessDisplay		All	No	Allow	No	C:\Program Files\Intel Corporation\Intel WiDi\Next\WirelessDisplay.exe	Any	Any	Any	Any	Any	Any	Any	Any	Any	Any	
+XCOM: Enemy Unknown		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\XCom-Enemy-Unknown\Binaries\Win32\XComGame.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+XCOM: Enemy Unknown		All	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\XCom-Enemy-Unknown\Binaries\Win32\XComGame.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Xming X Server		Public	No	Allow	No	D:\program files (x86)\xming\xming.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Xming X Server		Public	No	Allow	No	D:\program files (x86)\xming\xming.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+@{Microsoft.AAD.BrokerPlugin_1000.10240.16384.0_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.AAD.BrokerPlugin/resources/PackageDisplayName}	@{Microsoft.AAD.BrokerPlugin_1000.10240.16384.0_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.AAD.BrokerPlugin/resources/PackageDisplayName}	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\Administrator	Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy	
+@{Microsoft.MicrosoftEdge_20.10240.16384.0_neutral__8wekyb3d8bbwe?ms-resource://Microsoft.MicrosoftEdge/Resources/AppName}	@{Microsoft.MicrosoftEdge_20.10240.16384.0_neutral__8wekyb3d8bbwe?ms-resource://Microsoft.MicrosoftEdge/Resources/AppName}	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\Administrator	microsoft.microsoftedge_8wekyb3d8bbwe	
+@{Microsoft.Windows.CloudExperienceHost_10.0.10240.16384_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.CloudExperienceHost/resources/appDescription}	@{Microsoft.Windows.CloudExperienceHost_10.0.10240.16384_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.CloudExperienceHost/resources/appDescription}	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	S-1-5-21-715623685-1347908688-2817881105-1000	microsoft.windows.cloudexperiencehost_cw5n1h2txyewy	
+@{Microsoft.Windows.CloudExperienceHost_10.0.10240.16384_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.CloudExperienceHost/resources/appDescription}	@{Microsoft.Windows.CloudExperienceHost_10.0.10240.16384_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.CloudExperienceHost/resources/appDescription}	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\Administrator	microsoft.windows.cloudexperiencehost_cw5n1h2txyewy	
+@{Microsoft.Windows.Cortana_1.4.8.152_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.Cortana/resources/DisplayName}	@{Microsoft.Windows.Cortana_1.4.8.152_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.Cortana/resources/DisplayName}	All	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\Administrator	microsoft.windows.cortana_cw5n1h2txyewy	
+@{Windows.ContactSupport_10.0.10240.16384_neutral_neutral_cw5n1h2txyewy?ms-resource://Windows.ContactSupport/Resources/appDisplayName}	@{Windows.ContactSupport_10.0.10240.16384_neutral_neutral_cw5n1h2txyewy?ms-resource://Windows.ContactSupport/Resources/appDisplayName}	All	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\Administrator	Windows.ContactSupport_cw5n1h2txyewy	
+AllJoyn Router (TCP-In)	AllJoyn Router	Domain, Private	Yes	Block	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	9955	Any	Any	Any	Any	Any	Any	
+AllJoyn Router (UDP-In)	AllJoyn Router	Domain, Private	Yes	Block	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+AllJoyn Router (UDP-In)	AllJoyn Router	Domain, Private	Yes	Block	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Cast to Device functionality (qWave-TCP-In)	Cast to Device functionality	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	PlayTo Renderers	TCP	2177	Any	Any	Any	Any	Any	Any	
+Cast to Device functionality (qWave-UDP-In)	Cast to Device functionality	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	PlayTo Renderers	UDP	2177	Any	Any	Any	Any	Any	Any	
+Cast to Device SSDP Discovery (UDP-In)	Cast to Device functionality	Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	PlayTo Discovery	Any	Any	Any	Any	Any	Any	
+Cast to Device streaming server (HTTP-Streaming-In)	Cast to Device functionality	Domain	No	Allow	No	System	Any	Any	TCP	10246	Any	Any	Any	Any	Any	Any	
+Cast to Device streaming server (HTTP-Streaming-In)	Cast to Device functionality	Private	No	Allow	No	System	Any	Local subnet	TCP	10246	Any	Any	Any	Any	Any	Any	
+Cast to Device streaming server (HTTP-Streaming-In)	Cast to Device functionality	Public	No	Allow	No	System	Any	PlayTo Renderers	TCP	10246	Any	Any	Any	Any	Any	Any	
+Cast to Device streaming server (RTCP-Streaming-In)	Cast to Device functionality	Public	No	Allow	No	%SystemRoot%\system32\mdeserver.exe	Any	PlayTo Renderers	UDP	Any	Any	Any	Any	Any	Any	Any	
+Cast to Device streaming server (RTCP-Streaming-In)	Cast to Device functionality	Private	No	Allow	No	%SystemRoot%\system32\mdeserver.exe	Any	Local subnet	UDP	Any	Any	Any	Any	Any	Any	Any	
+Cast to Device streaming server (RTCP-Streaming-In)	Cast to Device functionality	Domain	No	Allow	No	%SystemRoot%\system32\mdeserver.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Cast to Device streaming server (RTSP-Streaming-In)	Cast to Device functionality	Public	No	Allow	No	%SystemRoot%\system32\mdeserver.exe	Any	PlayTo Renderers	TCP	23554, 23555, 23556	Any	Any	Any	Any	Any	Any	
+Cast to Device streaming server (RTSP-Streaming-In)	Cast to Device functionality	Private	No	Allow	No	%SystemRoot%\system32\mdeserver.exe	Any	Local subnet	TCP	23554, 23555, 23556	Any	Any	Any	Any	Any	Any	
+Cast to Device streaming server (RTSP-Streaming-In)	Cast to Device functionality	Domain	No	Allow	No	%SystemRoot%\system32\mdeserver.exe	Any	Any	TCP	23554, 23555, 23556	Any	Any	Any	Any	Any	Any	
+Cast to Device UPnP Events (TCP-In)	Cast to Device functionality	Public	No	Allow	No	System	Any	PlayTo Renderers	TCP	2869	Any	Any	Any	Any	Any	Any	
+Connect	Connect	Public	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	microsoft.ppiprojection_cw5n1h2txyewy	
+Connect	Connect	All	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	microsoft.ppiprojection_cw5n1h2txyewy	
+Contact Support	Contact Support	All	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	Windows.ContactSupport_cw5n1h2txyewy	
+Core Networking - Destination Unreachable (ICMPv6-In)	Core Networking	All	No	Allow	No	System	Any	Any	ICMPv6	Any	Any	Any	Any	Any	Any	Any	
+Core Networking - Destination Unreachable Fragmentation Needed (ICMPv4-In)	Core Networking	All	Yes	Allow	No	System	Any	Any	ICMPv4	Any	Any	Any	Any	Any	Any	Any	
+Core Networking - Dynamic Host Configuration Protocol (DHCP-In)	Core Networking	All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	68	67	Any	Any	Any	Any	Any	
+Core Networking - Dynamic Host Configuration Protocol for IPv6(DHCPV6-In)	Core Networking	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	546	547	Any	Any	Any	Any	Any	
+Core Networking - Internet Group Management Protocol (IGMP-In)	Core Networking	All	No	Allow	No	System	Any	Any	IGMP	Any	Any	Any	Any	Any	Any	Any	
+Core Networking - IPHTTPS (TCP-In)	Core Networking	All	No	Allow	No	System	Any	Any	TCP	IPHTTPS	Any	Any	Any	Any	Any	Any	
+Core Networking - IPv6 (IPv6-In)	Core Networking	All	No	Allow	No	System	Any	Any	IPv6	Any	Any	Any	Any	Any	Any	Any	
+Core Networking - Multicast Listener Done (ICMPv6-In)	Core Networking	All	No	Allow	No	System	Any	Local subnet	ICMPv6	Any	Any	Any	Any	Any	Any	Any	
+Core Networking - Multicast Listener Query (ICMPv6-In)	Core Networking	All	No	Allow	No	System	Any	Local subnet	ICMPv6	Any	Any	Any	Any	Any	Any	Any	
+Core Networking - Multicast Listener Report (ICMPv6-In)	Core Networking	All	No	Allow	No	System	Any	Local subnet	ICMPv6	Any	Any	Any	Any	Any	Any	Any	
+Core Networking - Multicast Listener Report v2 (ICMPv6-In)	Core Networking	All	No	Allow	No	System	Any	Local subnet	ICMPv6	Any	Any	Any	Any	Any	Any	Any	
+Core Networking - Neighbor Discovery Advertisement (ICMPv6-In)	Core Networking	All	No	Allow	No	System	Any	Any	ICMPv6	Any	Any	Any	Any	Any	Any	Any	
+Core Networking - Neighbor Discovery Solicitation (ICMPv6-In)	Core Networking	All	No	Allow	No	System	Any	Any	ICMPv6	Any	Any	Any	Any	Any	Any	Any	
+Core Networking - Packet Too Big (ICMPv6-In)	Core Networking	All	No	Allow	No	Any	Any	Any	ICMPv6	Any	Any	Any	Any	Any	Any	Any	
+Core Networking - Parameter Problem (ICMPv6-In)	Core Networking	All	No	Allow	No	System	Any	Any	ICMPv6	Any	Any	Any	Any	Any	Any	Any	
+Core Networking - Router Advertisement (ICMPv6-In)	Core Networking	All	No	Allow	No	System	Any	fe80::/64	ICMPv6	Any	Any	Any	Any	Any	Any	Any	
+Core Networking - Router Solicitation (ICMPv6-In)	Core Networking	All	No	Allow	No	System	Any	Any	ICMPv6	Any	Any	Any	Any	Any	Any	Any	
+Core Networking - Teredo (UDP-In)	Core Networking	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	Edge Traversal	Any	Any	Any	Any	Any	Any	
+Core Networking - Time Exceeded (ICMPv6-In)	Core Networking	All	No	Allow	No	System	Any	Any	ICMPv6	Any	Any	Any	Any	Any	Any	Any	
+Cortana	Cortana	All	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	microsoft.windows.cortana_cw5n1h2txyewy	
+Delivery Optimization (TCP-In)	Delivery Optimization	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	7680	Any	Any	Any	Any	Any	Any	
+Delivery Optimization (UDP-In)	Delivery Optimization	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	7680	Any	Any	Any	Any	Any	Any	
+DIAL protocol server (HTTP-In)	DIAL protocol server	Domain	No	Allow	No	System	Any	Any	TCP	10247	Any	Any	Any	Any	Any	Any	
+DIAL protocol server (HTTP-In)	DIAL protocol server	Private	No	Allow	No	System	Any	Local subnet	TCP	10247	Any	Any	Any	Any	Any	Any	
+Distributed Transaction Coordinator (RPC)	Distributed Transaction Coordinator	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+Distributed Transaction Coordinator (RPC)	Distributed Transaction Coordinator	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+Distributed Transaction Coordinator (RPC-EPMAP)	Distributed Transaction Coordinator	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	Any	
+Distributed Transaction Coordinator (RPC-EPMAP)	Distributed Transaction Coordinator	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	Any	
+Distributed Transaction Coordinator (TCP-In)	Distributed Transaction Coordinator	Private, Public	No	Allow	No	%SystemRoot%\system32\msdtc.exe	Any	Local subnet	TCP	Any	Any	Any	Any	Any	Any	Any	
+Distributed Transaction Coordinator (TCP-In)	Distributed Transaction Coordinator	Domain	No	Allow	No	%SystemRoot%\system32\msdtc.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Feedback Hub	Feedback Hub	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe	
+File and Printer Sharing (Echo Request - ICMPv4-In)	File and Printer Sharing	Private, Public	No	Allow	No	Any	Any	Local subnet	ICMPv4	Any	Any	Any	Any	Any	Any	Any	
+File and Printer Sharing (Echo Request - ICMPv4-In)	File and Printer Sharing	Domain	No	Allow	No	Any	Any	Any	ICMPv4	Any	Any	Any	Any	Any	Any	Any	
+File and Printer Sharing (Echo Request - ICMPv6-In)	File and Printer Sharing	Private, Public	No	Allow	No	Any	Any	Local subnet	ICMPv6	Any	Any	Any	Any	Any	Any	Any	
+File and Printer Sharing (Echo Request - ICMPv6-In)	File and Printer Sharing	Domain	No	Allow	No	Any	Any	Any	ICMPv6	Any	Any	Any	Any	Any	Any	Any	
+File and Printer Sharing (LLMNR-UDP-In)	File and Printer Sharing	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	5355	Any	Any	Any	Any	Any	Any	
+File and Printer Sharing (NB-Datagram-In)	File and Printer Sharing	Domain	No	Allow	No	System	Any	Any	UDP	138	Any	Any	Any	Any	Any	Any	
+File and Printer Sharing (NB-Datagram-In)	File and Printer Sharing	Private, Public	No	Allow	No	System	Any	Local subnet	UDP	138	Any	Any	Any	Any	Any	Any	
+File and Printer Sharing (NB-Name-In)	File and Printer Sharing	Domain	No	Allow	No	System	Any	Any	UDP	137	Any	Any	Any	Any	Any	Any	
+File and Printer Sharing (NB-Name-In)	File and Printer Sharing	Private, Public	No	Allow	No	System	Any	Local subnet	UDP	137	Any	Any	Any	Any	Any	Any	
+File and Printer Sharing (NB-Session-In)	File and Printer Sharing	Private, Public	No	Allow	No	System	Any	Local subnet	TCP	139	Any	Any	Any	Any	Any	Any	
+File and Printer Sharing (NB-Session-In)	File and Printer Sharing	Domain	No	Allow	No	System	Any	Any	TCP	139	Any	Any	Any	Any	Any	Any	
+File and Printer Sharing (SMB-In)	File and Printer Sharing	Private, Public	No	Allow	No	System	Any	Local subnet	TCP	445	Any	Any	Any	Any	Any	Any	
+File and Printer Sharing (SMB-In)	File and Printer Sharing	Domain	No	Allow	No	System	Any	Any	TCP	445	Any	Any	Any	Any	Any	Any	
+File and Printer Sharing (Spooler Service - RPC)	File and Printer Sharing	Private, Public	No	Allow	No	%SystemRoot%\system32\spoolsv.exe	Any	Local subnet	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+File and Printer Sharing (Spooler Service - RPC)	File and Printer Sharing	Domain	No	Allow	No	%SystemRoot%\system32\spoolsv.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+File and Printer Sharing (Spooler Service - RPC-EPMAP)	File and Printer Sharing	Domain	No	Allow	No	Any	Any	Any	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	Any	
+File and Printer Sharing (Spooler Service - RPC-EPMAP)	File and Printer Sharing	Private, Public	No	Allow	No	Any	Any	Local subnet	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	Any	
+Get Office	Get Office	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe	
+Google Chrome (mDNS-In)	Google Chrome	All	Yes	Allow	No	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe	Any	Any	UDP	5353	Any	Any	Any	Any	Any	Any	
+Groove Music	Groove Music	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	Microsoft.ZuneMusic_8wekyb3d8bbwe	
+HomeGroup In	HomeGroup	Private	No	Allow	No	%systemroot%\system32\svchost.exe	Any	Local subnet	TCP	3587	Any	Any	Any	Any	Any	Any	
+HomeGroup In (PNRP)	HomeGroup	Private	No	Allow	No	%systemroot%\system32\svchost.exe	Any	Local subnet	UDP	3540	Any	Any	Any	Any	Any	Any	
+iHeartRadio	iHeartRadio	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	clearchannelradiodigital.iheartradio_a76a11dkgb644	
+iSCSI Service (TCP-In)	iSCSI Service	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+iSCSI Service (TCP-In)	iSCSI Service	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	Any	Any	Any	Any	Any	Any	Any	
+Mail and Calendar	Mail and Calendar	All	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	microsoft.windowscommunicationsapps_8wekyb3d8bbwe	
+mDNS (UDP-In)	mDNS	All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Media Center Extenders - HTTP Streaming (TCP-In)	Media Center Extenders	All	No	Allow	No	System	Any	Local subnet	TCP	10244	Any	Any	Any	Any	Any	Any	
+Media Center Extenders - Media Streaming (TCP-In)	Media Center Extenders	All	No	Allow	No	System	Any	Local subnet	TCP	2869	Any	Any	Any	Any	Any	Any	
+Media Center Extenders - qWave (TCP-In)	Media Center Extenders	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	2177	Any	Any	Any	Any	Any	Any	
+Media Center Extenders - qWave (UDP-In)	Media Center Extenders	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	2177	Any	Any	Any	Any	Any	Any	
+Media Center Extenders - RTSP (TCP-In)	Media Center Extenders	All	No	Allow	No	%SystemRoot%\ehome\ehshell.exe	Any	Local subnet	TCP	554, 8554, 8555, 8556, 8557, 8558	Any	Any	Any	Any	Any	Any	
+Media Center Extenders - SSDP (UDP-In)	Media Center Extenders	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	1900	Any	Any	Any	Any	Any	Any	
+Media Center Extenders - WMDRM-ND/RTP/RTCP (UDP-In)	Media Center Extenders	All	No	Allow	No	%SystemRoot%\ehome\ehshell.exe	Any	Local subnet	UDP	7777, 7778, 7779, 7780, 7781, 5004, 5005, 50004, 50005, 50006, 50007, 50008, 50009, 50010, 50011, 50012, 50013	Any	Any	Any	Any	Any	Any	
+Media Center Extenders - XSP (TCP-In)	Media Center Extenders	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	3390	Any	Any	Any	Any	Any	Any	
+Media Player	Media Player	All	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	9FD20106.MediaPlayerQueen_nwhm06f2kfry2	
+Microsoft Edge	Microsoft Edge	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	microsoft.microsoftedge_8wekyb3d8bbwe	
+Microsoft Messaging	Microsoft Messaging	All	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	Microsoft.Messaging_8wekyb3d8bbwe	
+Microsoft Phone	Microsoft Phone	All	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	Microsoft.CommsPhone_8wekyb3d8bbwe	
+Microsoft Photos	Microsoft Photos	All	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	Microsoft.Windows.Photos_8wekyb3d8bbwe	
+Microsoft Solitaire Collection	Microsoft Solitaire Collection	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe	
+Microsoft Sticky Notes	Microsoft Sticky Notes	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	microsoft.microsoftstickynotes_8wekyb3d8bbwe	
+Movies & TV	Movies & TV	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	Microsoft.ZuneVideo_8wekyb3d8bbwe	
+MSN Money	MSN Money	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	Microsoft.BingFinance_8wekyb3d8bbwe	
+MSN News	MSN News	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	Microsoft.BingNews_8wekyb3d8bbwe	
+MSN Sports	MSN Sports	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	Microsoft.BingSports_8wekyb3d8bbwe	
+MSN Weather	MSN Weather	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	microsoft.bingweather_8wekyb3d8bbwe	
+Wireless PAN DHCP Server	MyWiFiDHCPDNS	All	No	Allow	No	C:\Program Files\Intel\WiFi\bin\PanDhcpDns.exe	Any	Any	Any	Any	Any	Any	Any	Any	Any	Any	
+Netflix	Netflix	All	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	4DF9E0F8.Netflix_mcm4njqhnhss8	
+Netlogon Service (NP-In)	Netlogon Service	All	No	Allow	No	System	Any	Any	TCP	445	Any	Any	Any	Any	Any	Any	
+Netlogon Service Authz (RPC)	Netlogon Service	All	No	Allow	No	%SystemRoot%\System32\lsass.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+Network Discovery (LLMNR-UDP-In)	Network Discovery	Domain, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	5355	Any	Any	Any	Any	Any	Any	
+Network Discovery (LLMNR-UDP-In)	Network Discovery	Private	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	5355	Any	Any	Any	Any	Any	Any	
+Network Discovery (NB-Datagram-In)	Network Discovery	Private	No	Allow	No	System	Any	Local subnet	UDP	138	Any	Any	Any	Any	Any	Any	
+Network Discovery (NB-Datagram-In)	Network Discovery	Domain	No	Allow	No	System	Any	Any	UDP	138	Any	Any	Any	Any	Any	Any	
+Network Discovery (NB-Datagram-In)	Network Discovery	Public	No	Allow	No	System	Any	Local subnet	UDP	138	Any	Any	Any	Any	Any	Any	
+Network Discovery (NB-Name-In)	Network Discovery	Private	No	Allow	No	System	Any	Local subnet	UDP	137	Any	Any	Any	Any	Any	Any	
+Network Discovery (NB-Name-In)	Network Discovery	Domain	No	Allow	No	System	Any	Any	UDP	137	Any	Any	Any	Any	Any	Any	
+Network Discovery (NB-Name-In)	Network Discovery	Public	No	Allow	No	System	Any	Local subnet	UDP	137	Any	Any	Any	Any	Any	Any	
+Network Discovery (Pub-WSD-In)	Network Discovery	Domain, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	3702	Any	Any	Any	Any	Any	Any	
+Network Discovery (Pub-WSD-In)	Network Discovery	Private	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	3702	Any	Any	Any	Any	Any	Any	
+Network Discovery (SSDP-In)	Network Discovery	Private	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	1900	Any	Any	Any	Any	Any	Any	
+Network Discovery (SSDP-In)	Network Discovery	Domain, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	1900	Any	Any	Any	Any	Any	Any	
+Network Discovery (UPnP-In)	Network Discovery	Public	No	Allow	No	System	Any	Local subnet	TCP	2869	Any	Any	Any	Any	Any	Any	
+Network Discovery (UPnP-In)	Network Discovery	Private	No	Allow	No	System	Any	Local subnet	TCP	2869	Any	Any	Any	Any	Any	Any	
+Network Discovery (UPnP-In)	Network Discovery	Domain	No	Allow	No	System	Any	Any	TCP	2869	Any	Any	Any	Any	Any	Any	
+Network Discovery (WSD Events-In)	Network Discovery	Domain	No	Allow	No	System	Any	Any	TCP	5357	Any	Any	Any	Any	Any	Any	
+Network Discovery (WSD Events-In)	Network Discovery	Public	No	Allow	No	System	Any	Local subnet	TCP	5357	Any	Any	Any	Any	Any	Any	
+Network Discovery (WSD Events-In)	Network Discovery	Private	No	Allow	No	System	Any	Local subnet	TCP	5357	Any	Any	Any	Any	Any	Any	
+Network Discovery (WSD EventsSecure-In)	Network Discovery	Private	No	Allow	No	System	Any	Local subnet	TCP	5358	Any	Any	Any	Any	Any	Any	
+Network Discovery (WSD EventsSecure-In)	Network Discovery	Public	No	Allow	No	System	Any	Local subnet	TCP	5358	Any	Any	Any	Any	Any	Any	
+Network Discovery (WSD EventsSecure-In)	Network Discovery	Domain	No	Allow	No	System	Any	Any	TCP	5358	Any	Any	Any	Any	Any	Any	
+Network Discovery (WSD-In)	Network Discovery	Private	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	3702	Any	Any	Any	Any	Any	Any	
+Network Discovery (WSD-In)	Network Discovery	Private	No	Allow	No	%SystemRoot%\system32\dashost.exe	Any	Local subnet	UDP	3702	Any	Any	Any	Any	Any	Any	
+Network Discovery (WSD-In)	Network Discovery	Domain, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	3702	Any	Any	Any	Any	Any	Any	
+Network Discovery (WSD-In)	Network Discovery	Domain, Public	No	Allow	No	%SystemRoot%\system32\dashost.exe	Any	Local subnet	UDP	3702	Any	Any	Any	Any	Any	Any	
+OneNote	OneNote	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	Microsoft.Office.OneNote_8wekyb3d8bbwe	
+Paid Wi-Fi & Cellular	Paid Wi-Fi & Cellular	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	microsoft.oneconnect_8wekyb3d8bbwe	
+Performance Logs and Alerts (DCOM-In)	Performance Logs and Alerts	Private, Public	No	Allow	No	%systemroot%\system32\svchost.exe	Any	Local subnet	TCP	135	Any	Any	Any	Any	Any	Any	
+Performance Logs and Alerts (DCOM-In)	Performance Logs and Alerts	Domain	No	Allow	No	%systemroot%\system32\svchost.exe	Any	Any	TCP	135	Any	Any	Any	Any	Any	Any	
+Performance Logs and Alerts (TCP-In)	Performance Logs and Alerts	Domain	No	Allow	No	%systemroot%\system32\plasrv.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Performance Logs and Alerts (TCP-In)	Performance Logs and Alerts	Private, Public	No	Allow	No	%systemroot%\system32\plasrv.exe	Any	Local subnet	TCP	Any	Any	Any	Any	Any	Any	Any	
+Proximity sharing over TCP (TCP sharing-In)	Proximity Sharing	All	Yes	Allow	No	%SystemRoot%\system32\proximityuxhost.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Remote Assistance (DCOM-In)	Remote Assistance	Domain	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	135	Any	Any	Any	Any	Any	Any	
+Remote Assistance (PNRP-In)	Remote Assistance	Public	No	Allow	No	%systemroot%\system32\svchost.exe	Any	Any	UDP	3540	Any	Any	Any	Any	Any	Any	
+Remote Assistance (PNRP-In)	Remote Assistance	Domain, Private	Yes	Allow	No	%systemroot%\system32\svchost.exe	Any	Any	UDP	3540	Any	Any	Any	Any	Any	Any	
+Remote Assistance (RA Server TCP-In)	Remote Assistance	Domain	Yes	Allow	No	%SystemRoot%\system32\raserver.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Remote Assistance (SSDP TCP-In)	Remote Assistance	Domain, Private	Yes	Allow	No	System	Any	Local subnet	TCP	2869	Any	Any	Any	Any	Any	Any	
+Remote Assistance (SSDP UDP-In)	Remote Assistance	Domain, Private	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	1900	Any	Any	Any	Any	Any	Any	
+Remote Assistance (TCP-In)	Remote Assistance	Public	No	Allow	No	%SystemRoot%\system32\msra.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Remote Assistance (TCP-In)	Remote Assistance	Domain, Private	Yes	Allow	No	%SystemRoot%\system32\msra.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Remote Event Log Management (NP-In)	Remote Event Log Management	Private, Public	No	Allow	No	System	Any	Local subnet	TCP	445	Any	Any	Any	Any	Any	Any	
+Remote Event Log Management (NP-In)	Remote Event Log Management	Domain	No	Allow	No	System	Any	Any	TCP	445	Any	Any	Any	Any	Any	Any	
+Remote Event Log Management (RPC)	Remote Event Log Management	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+Remote Event Log Management (RPC)	Remote Event Log Management	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+Remote Event Log Management (RPC-EPMAP)	Remote Event Log Management	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	Any	
+Remote Event Log Management (RPC-EPMAP)	Remote Event Log Management	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	Any	
+Remote Event Monitor (RPC)	Remote Event Monitor	All	No	Allow	No	%SystemRoot%\system32\NetEvtFwdr.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+Remote Event Monitor (RPC-EPMAP)	Remote Event Monitor	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	Any	
+Remote Scheduled Tasks Management (RPC)	Remote Scheduled Tasks Management	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+Remote Scheduled Tasks Management (RPC)	Remote Scheduled Tasks Management	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+Remote Scheduled Tasks Management (RPC-EPMAP)	Remote Scheduled Tasks Management	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	Any	
+Remote Scheduled Tasks Management (RPC-EPMAP)	Remote Scheduled Tasks Management	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	Any	
+Remote Service Management (NP-In)	Remote Service Management	Domain	No	Allow	No	System	Any	Any	TCP	445	Any	Any	Any	Any	Any	Any	
+Remote Service Management (NP-In)	Remote Service Management	Private, Public	No	Allow	No	System	Any	Local subnet	TCP	445	Any	Any	Any	Any	Any	Any	
+Remote Service Management (RPC)	Remote Service Management	Private, Public	No	Allow	No	%SystemRoot%\system32\services.exe	Any	Local subnet	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+Remote Service Management (RPC)	Remote Service Management	Domain	No	Allow	No	%SystemRoot%\system32\services.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+Remote Service Management (RPC-EPMAP)	Remote Service Management	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	Any	
+Remote Service Management (RPC-EPMAP)	Remote Service Management	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	Any	
+Inbound Rule for Remote Shutdown (RPC-EP-In)	Remote Shutdown	All	No	Allow	No	%systemroot%\system32\wininit.exe	Any	Any	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	Any	
+Inbound Rule for Remote Shutdown (TCP-In)	Remote Shutdown	All	No	Allow	No	%systemroot%\system32\wininit.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+Remote Volume Management - Virtual Disk Service (RPC)	Remote Volume Management	Domain	No	Allow	No	%SystemRoot%\system32\vds.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+Remote Volume Management - Virtual Disk Service (RPC)	Remote Volume Management	Private, Public	No	Allow	No	%SystemRoot%\system32\vds.exe	Any	Local subnet	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+Remote Volume Management - Virtual Disk Service Loader (RPC)	Remote Volume Management	Private, Public	No	Allow	No	%SystemRoot%\system32\vdsldr.exe	Any	Local subnet	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+Remote Volume Management - Virtual Disk Service Loader (RPC)	Remote Volume Management	Domain	No	Allow	No	%SystemRoot%\system32\vdsldr.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+Remote Volume Management (RPC-EPMAP)	Remote Volume Management	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	Any	
+Remote Volume Management (RPC-EPMAP)	Remote Volume Management	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	Any	
+Routing and Remote Access (GRE-In)	Routing and Remote Access	All	No	Allow	No	System	Any	Any	GRE	Any	Any	Any	Any	Any	Any	Any	
+Routing and Remote Access (L2TP-In)	Routing and Remote Access	All	No	Allow	No	System	Any	Any	UDP	1701	Any	Any	Any	Any	Any	Any	
+Routing and Remote Access (PPTP-In)	Routing and Remote Access	All	No	Allow	No	System	Any	Any	TCP	1723	Any	Any	Any	Any	Any	Any	
+Secure Socket Tunneling Protocol (SSTP-In)	Secure Socket Tunneling Protocol	All	No	Allow	No	System	Any	Any	TCP	443	Any	Any	Any	Any	Any	Any	
+Skype	Skype	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	Microsoft.SkypeApp_kzf8qxf38zg5c	
+SNMP Trap Service (UDP In)	SNMP Trap	Private, Public	No	Allow	No	%SystemRoot%\system32\snmptrap.exe	Any	Local subnet	UDP	162	Any	Any	Any	Any	Any	Any	
+SNMP Trap Service (UDP In)	SNMP Trap	Domain	No	Allow	No	%SystemRoot%\system32\snmptrap.exe	Any	Any	UDP	162	Any	Any	Any	Any	Any	Any	
+Store	Store	All	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	microsoft.windowsstore_8wekyb3d8bbwe	
+Sway	Sway	All	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	Microsoft.Office.Sway_8wekyb3d8bbwe	
+TPM Virtual Smart Card Management (DCOM-In)	TPM Virtual Smart Card Management	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	135	Any	Any	Any	Any	Any	Any	
+TPM Virtual Smart Card Management (DCOM-In)	TPM Virtual Smart Card Management	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	135	Any	Any	Any	Any	Any	Any	
+TPM Virtual Smart Card Management (TCP-In)	TPM Virtual Smart Card Management	Domain	No	Allow	No	%SystemRoot%\system32\RmtTpmVscMgrSvr.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+TPM Virtual Smart Card Management (TCP-In)	TPM Virtual Smart Card Management	Private, Public	No	Allow	No	%SystemRoot%\system32\RmtTpmVscMgrSvr.exe	Any	Local subnet	TCP	Any	Any	Any	Any	Any	Any	Any	
+Virtual Machine Monitoring (DCOM-In)	Virtual Machine Monitoring	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	135	Any	Any	Any	Any	Any	Any	
+Virtual Machine Monitoring (Echo Request - ICMPv4-In)	Virtual Machine Monitoring	All	No	Allow	No	Any	Any	Any	ICMPv4	Any	Any	Any	Any	Any	Any	Any	
+Virtual Machine Monitoring (Echo Request - ICMPv6-In)	Virtual Machine Monitoring	All	No	Allow	No	Any	Any	Any	ICMPv6	Any	Any	Any	Any	Any	Any	Any	
+Virtual Machine Monitoring (NB-Session-In)	Virtual Machine Monitoring	All	No	Allow	No	Any	Any	Any	TCP	139	Any	Any	Any	Any	Any	Any	
+Virtual Machine Monitoring (RPC)	Virtual Machine Monitoring	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+VLC	VLC	All	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	videolan.vlc_paz6r1rewnh0a	
+Warframe Steam Game 32-bit (TCP-In)	Warframe Steam	Public	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Warframe\Warframe.exe	Any	Any	TCP	Any	80, 443, 8080, 6665-6669, 6695-6699	Any	Any	Any	Any	Any	
+Warframe Steam Game 32-bit (UDP-In)	Warframe Steam	Public	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Warframe\Warframe.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Warframe Steam Game 64-bit (TCP-In)	Warframe Steam	Public	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Warframe\Warframe.x64.exe	Any	Any	TCP	Any	80, 443, 8080, 6665-6669, 6695-6699	Any	Any	Any	Any	Any	
+Warframe Steam Game 64-bit (UDP-In)	Warframe Steam	Public	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Warframe\Warframe.x64.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Warframe Steam Launcher (TCP-In)	Warframe Steam	Public	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Launcher.exe	Any	Any	TCP	Any	80, 443, 8080, 6665-6669, 6695-6699	Any	Any	Any	Any	Any	
+Warframe Steam RemoteCrashSender (TCP-In)	Warframe Steam	Public	No	Allow	No	D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\RemoteCrashSender.exe	Any	Any	TCP	Any	80, 443, 8080, 6665-6669, 6695-6699	Any	Any	Any	Any	Any	
+Wi-Fi Direct Network Discovery (In)	Wi-Fi Direct Network Discovery	Public	No	Allow	No	%SystemRoot%\system32\dashost.exe	Any	Any	Any	Any	Any	Any	Any	S-1-5-92-3339056971-1291069075-3798698925-2882100687-0	Any	Any	
+Wi-Fi Direct Scan Service Use (In)	Wi-Fi Direct Network Discovery	Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	Any	Any	Any	Any	Any	Any	Any	Any	
+Wi-Fi Direct Spooler Use (In)	Wi-Fi Direct Network Discovery	Public	No	Allow	No	%SystemRoot%\system32\spoolsv.exe	Any	Any	Any	Any	Any	Any	Any	Any	Any	Any	
+Windows Collaboration Computer Name Registration Service (PNRP-In)	Windows Collaboration Computer Name Registration Service	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	3540	Any	Any	Any	Any	Any	Any	
+Windows Collaboration Computer Name Registration Service (SSDP-In)	Windows Collaboration Computer Name Registration Service	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	1900	Any	Any	Any	Any	Any	Any	
+Windows Firewall Remote Management (RPC)	Windows Firewall Remote Management	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+Windows Firewall Remote Management (RPC)	Windows Firewall Remote Management	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	Any	
+Windows Firewall Remote Management (RPC-EPMAP)	Windows Firewall Remote Management	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	Any	
+Windows Firewall Remote Management (RPC-EPMAP)	Windows Firewall Remote Management	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	Any	
+Windows Management Instrumentation (ASync-In)	Windows Management Instrumentation (WMI)	Private, Public	No	Allow	No	%systemroot%\system32\wbem\unsecapp.exe	Any	Local subnet	TCP	Any	Any	Any	Any	Any	Any	Any	
+Windows Management Instrumentation (ASync-In)	Windows Management Instrumentation (WMI)	Domain	No	Allow	No	%systemroot%\system32\wbem\unsecapp.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Windows Management Instrumentation (DCOM-In)	Windows Management Instrumentation (WMI)	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	135	Any	Any	Any	Any	Any	Any	
+Windows Management Instrumentation (DCOM-In)	Windows Management Instrumentation (WMI)	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	135	Any	Any	Any	Any	Any	Any	
+Windows Management Instrumentation (WMI-In)	Windows Management Instrumentation (WMI)	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	Any	Any	Any	Any	Any	Any	Any	
+Windows Management Instrumentation (WMI-In)	Windows Management Instrumentation (WMI)	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Windows Media Player (UDP-In)	Windows Media Player	All	No	Allow	No	%ProgramFiles%\Windows Media Player\wmplayer.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Windows Media Player x86 (UDP-In)	Windows Media Player	All	No	Allow	No	%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Windows Media Player Network Sharing Service (HTTP-Streaming-In)	Windows Media Player Network Sharing Service	Private, Public	No	Allow	No	System	Any	Local subnet	TCP	10243	Any	Any	Any	Any	Any	Any	
+Windows Media Player Network Sharing Service (HTTP-Streaming-In)	Windows Media Player Network Sharing Service	Domain	No	Allow	No	System	Any	Any	TCP	10243	Any	Any	Any	Any	Any	Any	
+Windows Media Player Network Sharing Service (qWave-TCP-In)	Windows Media Player Network Sharing Service	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	2177	Any	Any	Any	Any	Any	Any	
+Windows Media Player Network Sharing Service (qWave-TCP-In)	Windows Media Player Network Sharing Service	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	2177	Any	Any	Any	Any	Any	Any	
+Windows Media Player Network Sharing Service (qWave-UDP-In)	Windows Media Player Network Sharing Service	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	2177	Any	Any	Any	Any	Any	Any	
+Windows Media Player Network Sharing Service (qWave-UDP-In)	Windows Media Player Network Sharing Service	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	2177	Any	Any	Any	Any	Any	Any	
+Windows Media Player Network Sharing Service (SSDP-In)	Windows Media Player Network Sharing Service	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	1900	Any	Any	Any	Any	Any	Any	
+Windows Media Player Network Sharing Service (Streaming-UDP-In)	Windows Media Player Network Sharing Service	Private, Public	No	Allow	No	%PROGRAMFILES%\Windows Media Player\wmplayer.exe	Any	Local subnet	UDP	Any	Any	Any	Any	Any	Any	Any	
+Windows Media Player Network Sharing Service (Streaming-UDP-In)	Windows Media Player Network Sharing Service	Domain	No	Allow	No	%PROGRAMFILES%\Windows Media Player\wmplayer.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Windows Media Player Network Sharing Service (TCP-In)	Windows Media Player Network Sharing Service	Domain	No	Allow	No	%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Windows Media Player Network Sharing Service (TCP-In)	Windows Media Player Network Sharing Service	Private, Public	No	Allow	No	%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe	Any	Local subnet	TCP	Any	Any	Any	Any	Any	Any	Any	
+Windows Media Player Network Sharing Service (UDP-In)	Windows Media Player Network Sharing Service	Private, Public	No	Allow	No	%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe	Any	Local subnet	UDP	Any	Any	Any	Any	Any	Any	Any	
+Windows Media Player Network Sharing Service (UDP-In)	Windows Media Player Network Sharing Service	Domain	No	Allow	No	%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	Any	
+Windows Media Player Network Sharing Service (UPnP-In)	Windows Media Player Network Sharing Service	All	No	Allow	No	System	Any	Local subnet	TCP	2869	Any	Any	Any	Any	Any	Any	
+Windows Media Player Network Sharing Service (HTTP-Streaming-In)	Windows Media Player Network Sharing Service (Internet)	Domain, Private	No	Allow	No	System	Any	Any	TCP	10245	Any	Any	Any	Any	Any	Any	
+Windows Peer to Peer Collaboration Foundation (PNRP-In)	Windows Peer to Peer Collaboration Foundation	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	3540	Any	Any	Any	Any	Any	Any	
+Windows Peer to Peer Collaboration Foundation (SSDP-In)	Windows Peer to Peer Collaboration Foundation	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	1900	Any	Any	Any	Any	Any	Any	
+Windows Peer to Peer Collaboration Foundation (TCP-In)	Windows Peer to Peer Collaboration Foundation	All	No	Allow	No	%SystemRoot%\system32\p2phost.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	Any	
+Windows Peer to Peer Collaboration Foundation (WSD-In)	Windows Peer to Peer Collaboration Foundation	All	No	Allow	No	%SystemRoot%\system32\p2phost.exe	Any	Local subnet	UDP	3702	Any	Any	Any	Any	Any	Any	
+Windows Remote Management (HTTP-In)	Windows Remote Management	Public	No	Allow	No	System	Any	Local subnet	TCP	5985	Any	Any	Any	Any	Any	Any	
+Windows Remote Management (HTTP-In)	Windows Remote Management	Domain, Private	No	Allow	No	System	Any	Any	TCP	5985	Any	Any	Any	Any	Any	Any	
+Windows Remote Management - Compatibility Mode (HTTP-In)	Windows Remote Management (Compatibility)	Private, Public	No	Allow	No	System	Any	Local subnet	TCP	80	Any	Any	Any	Any	Any	Any	
+Windows Remote Management - Compatibility Mode (HTTP-In)	Windows Remote Management (Compatibility)	Domain	No	Allow	No	System	Any	Any	TCP	80	Any	Any	Any	Any	Any	Any	
+Wireless Display (TCP-In)	Wireless Display	Private, Public	No	Allow	No	%systemroot%\system32\WUDFHost.exe	Any	Any	TCP	Any	Any	Any	Any	NT AUTHORITY\USER MODE DRIVERS	Any	Any	
+Wireless Display Infrastructure Back Channel (TCP-In)	Wireless Display	Private, Public	No	Allow	No	%systemroot%\system32\CastSrv.exe	Any	Any	TCP	7250	Any	Any	Any	Any	Any	Any	
+Wireless Portable Devices (SSDP-In)	Wireless Portable Devices	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	1900	Any	Any	Any	Any	Any	Any	
+Wireless Portable Devices (UPnP-In)	Wireless Portable Devices	All	No	Allow	No	System	Any	Local subnet	TCP	2869	Any	Any	Any	Any	Any	Any	
+WFD ASP Coordination Protocol (UDP-In)	WLAN Service - WFD Application Services Platform Coordination Protocol (Uses UDP)	All	No	Allow	No	%systemroot%\system32\svchost.exe	Any	Local subnet	UDP	7235	7235	Any	Any	Any	Any	Any	
+Work or school account	Work or school account	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy	
+Xbox	Xbox	All	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	Microsoft.XboxApp_8wekyb3d8bbwe	
+Your account	Your account	Domain, Private	No	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-L845VBP\wmerf	microsoft.windows.cloudexperiencehost_cw5n1h2txyewy	
